@@ -148,7 +148,7 @@ $$
 در فضای **d بعدی**:
 
 $$
-\#cells = 4^d
+\text{number of cells} = 4^d
 $$
 
 $$
